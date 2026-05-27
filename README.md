@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm JungDhika</h1>
+<h1 align="center">Hi 👋, I'm Jung Dhika</h1>
 <h3 align="center">Im Still learn Programing</h3>
 
 - 📫 How to reach me **gungdhikaaa@gmail.com**
