@@ -1,5 +1,9 @@
-<h1 align="center">Hello World!👋, I'm Jung Dhika</h1>
-<h3 align="center">I Loves Programming and build random stuff :V</h3>
+<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/8c1c88b8-b570-4597-be7a-f910b010d8b8" />
+<h3 align="left">I Loves Programming and build random stuff  ;)</h3>
+
+<br>
+
+
 
 
 <h3 align="left">Connect with me:</h3>
